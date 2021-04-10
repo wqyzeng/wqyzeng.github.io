@@ -14,11 +14,7 @@ page_url: /hello # only include this variable if you aren't building the page to
 # favicon
 favicon: /assets/ico/favicon.ico
 
-# social media
-twitter_username: notsaragong # # your twitter handle
-github_username:  saragong # your github username
-linkedin: saragong # the part after ("https://www.linkedin.com/in/...")
-# facebook_username: wesley.zeng.92/ <-- your facebook username (the part after "https://www.facebook.com/...")
+# facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
