@@ -1,5 +1,5 @@
 ---
-layout: Wesley-default
+layout: hello-default
 
 # using Markdown language, you can customize the following variables!
 
