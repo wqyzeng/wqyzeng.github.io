@@ -2,7 +2,7 @@
 # in the root directory
 
 work:
-- category: New York City
+  - category: New York City
     items:
       - item: example.html
         image: /images/NYC1.jpg # optionally, include the file path for an image for each item
@@ -22,5 +22,3 @@ work:
         image: /images/LA3.jpg
       - item: example3.html
         image: /images/LA4.jpg
-
-  
