@@ -16,12 +16,13 @@ favicon: /assets/ico/favicon.ico
 
 # social media
 facebook_username: wesleyzeng92
+linkedin_username: wqyzeng
 # facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: https://github.com/wqyzeng # the link
-about_button_label: GitHub # the label on the button
+about_button: https://github.com/wqyzeng/wqyzeng.github.io # the link
+about_button_label: GitHub Code # the label on the button
 
 # optional portfolio section ------------------------------------------
 
