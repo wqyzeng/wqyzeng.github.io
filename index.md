@@ -14,6 +14,8 @@ page_url: /wesleyzeng.github.io # only include this variable if you aren't build
 # favicon
 favicon: /assets/ico/favicon.ico
 
+# social media
+facebook_username:wesley.zeng.92
 # facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
 
