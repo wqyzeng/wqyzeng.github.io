@@ -6,9 +6,7 @@ Photos:
     items:
       - item: example.html
         image: /images/A1.png # optionally, include the file path for an image for each item
-      - item: example.html
+      - item: example1.html
         image: /images/A2.png
       - item: example2.html
         image: /images/A3.png
-      - item: example3.html
-       
