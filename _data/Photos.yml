@@ -5,11 +5,11 @@ Photos:
   - category: 2017 Odyssey Field Trip
     items:
       - item: example.html
-        image: /images/NYC1.jpg # optionally, include the file path for an image for each item
+        image: /images/A1.png # optionally, include the file path for an image for each item
       - item: example.html
-        image: /images/NYC2.jpg
+        image: /images/A2.png
       - item: example2.html
-        image: /images/NYC3.jpg
+        image: /images/A3.png
       - item: example3.html
         image: /images/NYC4.jpg
   - category: Los Angeles
