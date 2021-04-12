@@ -6,7 +6,7 @@ layout: hello-default
 # these variables are required -------------------------------
 banner_title: Hello! I'm Wesley Zeng.
 banner_subtitle: Welcome to my personal website.
-background_image: https://external-preview.redd.it/72pnxbZx3-jKvfl8L6XGcpNWTE0aLebLcJzvQ0sXtvo.png?auto=webp&s=921a76d8f6a181ed1c3d901de794f7d158f677a9
+background_image: https://images2.alphacoders.com/598/thumb-1920-598673.jpg
 
 # all of the following variables are optional -----------------
 page_url: /wesleyzeng.github.io # only include this variable if you aren't building the page to your primary domain 
