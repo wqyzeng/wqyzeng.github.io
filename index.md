@@ -50,4 +50,8 @@ What I'm Currently Watching:
 - The Quintessential Quintuplets
 
 What I'm Currently Jamming to:
-- 
+- Go Crazy (Chris Brown ft. Young Thug)
+- Let Me Down Slowly (Alec Benjamin ft. Alessia Cara)
+- Goosebumps (Travis Scott ft. Kendrick Lamar)
+- Willow (Taylor Swift)
+- Blind (Dababy ft. Young Thug)
