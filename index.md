@@ -29,7 +29,7 @@ about_button_label: GitHub Code # the label on the button
 # By declaring these variables, you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. In addition, you must 1) create an HTML file in the_includes folder for each project with the text you'd like to display, and 2) create a YAML file in the _data folder describing the order in which each project should be shown and categorized. See `/includes/example.html` and `/_data/work.yml` for examples.
 
 portfolio: Photos  # the heading for your portfolio and title of your YAML file
-portfolio_description: Here are some random pictures taken during a field trip to Alberta in my grade 8 year. # a description to be displayed below the heading and above the content
+portfolio_description: Here are some random pictures taken during a memorable field trip to Alberta in my grade 8 year. # a description to be displayed below the heading and above the content
 
 # optional CTA section --------------------------------------------------
 
@@ -44,3 +44,6 @@ cta_button_label: contact # the label on the button
 
 I am currently a grade 12 student at David Thompson Secondary School. An aspiring software developer, I will probably be studying either computer science at the University of Toronto or applied science at the University of British Columbia next year. I enjoy playing basketball, snowboarding, listening to lofi, and watching anime. 
 
+Recently watched anime: 
+- Kaguya-sama: Love is War
+- Rascal Does Not Dream of Bunny Girl Senpai 
