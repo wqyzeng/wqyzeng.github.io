@@ -54,4 +54,7 @@ What I'm Currently Jamming to:
 - Let Me Down Slowly (Alec Benjamin ft. Alessia Cara)
 - Goosebumps (Travis Scott ft. Kendrick Lamar)
 - Willow (Taylor Swift)
+- Mood (24kGoldn ft. iann dior)
 - Blind (Dababy ft. Young Thug)
+- Astronaut in the Ocean (Masked Wolf)
+- Way Out (Jack Harlow ft. Big Sean)
