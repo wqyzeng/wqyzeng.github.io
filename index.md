@@ -44,6 +44,10 @@ cta_button_label: contact # the label on the button
 
 I am currently a grade 12 student at David Thompson Secondary School. An aspiring software developer, I will probably be studying either computer science at the University of Toronto or applied science at the University of British Columbia next year. I enjoy playing basketball, snowboarding, listening to lofi, and watching anime. 
 
-Recently watched anime: 
+What I'm Currently Watching: 
 - Kaguya-sama: Love is War
 - Rascal Does Not Dream of Bunny Girl Senpai 
+- The Quintessential Quintuplets
+
+What I'm Currently Jamming to:
+- 
