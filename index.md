@@ -43,7 +43,7 @@ cta_button_label: contact # the label on the button
 ---			
 [//]: # (write a bit about yourself here)
 
-I am currently a grade 12 student at David Thompson Secondary School, Vancouver. An aspiring software developer, I will probably be studying either computer science at the University of Toronto or applied science at the University of British Columbia next year. I enjoy playing basketball, snowboarding, listening to lofi, and watching anime. 
+I am currently a grade 12 student at David Thompson Secondary School, Vancouver. An aspiring software developer, I will be studying computer engineering at the University of Waterloo next year.
 
 What I'm Currently Watching: 
 - Kaguya-sama: Love is War
