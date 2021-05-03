@@ -17,7 +17,7 @@ favicon: /assets/ico/favicon.ico
 # social media
 facebook_username: wesleyzeng92
 github_username: wqyzeng
-google_analytics: 269344047
+linkedin_username: wesley-zeng-258456211
 # facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
 
